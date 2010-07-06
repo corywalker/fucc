@@ -1,0 +1,2 @@
+./fucc WTF.x1223.RELEASE.dfu x1223.exec 0xBC 0x22000800 x1223.exec.cert
+./fucc WTF.x1231.RELEASE.dfu x1231.exec 0xBC 0x22000600 x1231.exec.cert
